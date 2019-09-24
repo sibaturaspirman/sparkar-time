@@ -1,6 +1,6 @@
 # Free Download Source File AR Spark Time
 AR Spark - Time<br>
-You can learn about how create time with Script in AR Spark Studio.
+You can learn about how to create time with Script in AR Spark Studio.
 
 Instagram : [@sibaturaspirman](https://www.instagram.com/sibaturaspirman/) & [@sibaturaspirman.space](https://www.instagram.com/sibaturaspirman.space/)<br />
 Website : [sibatur.com](http://bit.ly/sibaturWeb) - [antigravity.id](https://antigravity.id/)<br />
